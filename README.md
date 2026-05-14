@@ -5,8 +5,7 @@
 🔧 Experienced in building and operating cloud-native infrastructure across AWS, Azure, and GCP  
 ☁️ Expertise in Kubernetes, Terraform, CI/CD pipelines, and observability  
 🔒 DevSecOps practitioner — Snyk, SonarQube, Zero Trust  
-📍 Arlington, Texas | Open to remote roles  
-🇺🇸 Authorised to work in the US on STEM OPT  
+📍 Arlington, Texas | Open to remote roles   
 
 ---
 
