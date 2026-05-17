@@ -16,7 +16,7 @@
 **IaC:** Terraform | Ansible | CloudFormation  
 **CI/CD:** GitHub Actions | Jenkins | GitLab CI/CD  
 **Observability:** Prometheus | Grafana | CloudWatch | ELK  
-**Languages:** Python | Bash | Go | YAML  
+**Languages:** Python | Bash | YAML | SQL 
 
 ---
 
