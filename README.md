@@ -1,33 +1,36 @@
 # Hi, I'm Vijitha Chinthaginjala 👋
 
-**DevOps Engineer | SRE | Cloud Infrastructure**
+**Cloud Infrastructure & DevOps Engineer | Kubernetes | Terraform | GCP | AWS**
 
-🔧 Experienced in building and operating cloud-native infrastructure across AWS, Azure, and GCP  
-☁️ Expertise in Kubernetes, Terraform, CI/CD pipelines, and observability  
-🔒 DevSecOps practitioner — Snyk, SonarQube, Zero Trust  
-📍 Arlington, Texas | Open to remote roles   
+☁️ Experienced in building and operating cloud-native infrastructure across GCP, AWS, and Azure
+🔧 Hands-on with Kubernetes (GKE, EKS), Terraform IaC, Harness CI/CD, and GitOps workflows
+🔒 Experience in PCI-DSS and SOC2 compliant environments — RBAC, IAM, secret management
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Cloud:** AWS | Azure | GCP  
-**Containers:** Kubernetes | Docker | Helm | ArgoCD  
-**IaC:** Terraform | Ansible | CloudFormation  
-**CI/CD:** GitHub Actions | Jenkins | GitLab CI/CD  
-**Observability:** Prometheus | Grafana | CloudWatch | ELK  
-**Languages:** Python | Bash | YAML | SQL 
+**Cloud:** GCP | AWS | Azure
+**Containers:** Kubernetes | Docker | Helm | ArgoCD
+**IaC:** Terraform | Ansible | Checkov
+**CI/CD:** Harness | GitHub Actions | Jenkins | Azure DevOps
+**Observability:** Prometheus | Grafana | CloudWatch | ELK
+**Security:** RBAC | IAM | GCP Secret Manager | Trivy | Snyk
+**Languages:** Python | Bash | YAML | SQL
 
 ---
 
 ## 📌 Featured Projects
 
-- 🔁 [CI/CD Pipeline with Kubernetes](https://github.com/vijitha-chinthaginjala/cicd-kubernetes-pipeline)
-- 🏗️ [Infrastructure Automation with Terraform](https://github.com/vijitha-chinthaginjala/terraform-aws-infrastructure)
-- 🚀 [GitOps Deployment with ArgoCD](https://github.com/vijitha-chinthaginjala/gitops-argocd-deployment)
+* 🔁 [CI/CD Pipeline with Kubernetes — Trivy scanning, readiness probes, HPA, automated rollback](https://github.com/vijitha-chinthaginjala/cicd-kubernetes-pipeline)
+* 🏗️ [Modular AWS Infrastructure with Terraform — remote state, DynamoDB locking, Checkov, drift detection](https://github.com/vijitha-chinthaginjala/terraform-aws-infrastructure)
+* 🚀 [GitOps with ArgoCD — app-of-apps, Kustomize overlays, RBAC, multi-environment delivery](https://github.com/vijitha-chinthaginjala/gitops-argocd-deployment)
 
 ---
 
-## 📫 Connect
+## 🏅 Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vijitha-chinthaginjala-65014920a/)
+* Microsoft Certified: Azure Administrator Associate (AZ-104) ✅
+* AWS Certified Cloud Practitioner (CLF-C02) ✅
+
+---
